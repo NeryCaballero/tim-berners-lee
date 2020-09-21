@@ -84,6 +84,7 @@ body {
 .container2 ul {
     margin: 0;
     padding: 0;
+
 }
 
 .container2 li {
@@ -92,6 +93,13 @@ body {
     list-style: none;
     margin-right: 50px;
 }   
+
+.container2 a {
+    display: block;
+    text-decoration: none;
+    color: gray; 
+    
+}
 
 /* Social Media Links ENDS */
 
