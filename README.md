@@ -19,4 +19,4 @@ Team challenge: solo
 
 ## See the result
 
-[Click Here to see my project] (https://nerycaballero.github.io/tim-berners-lee/)
+[Click Here to see my project](https://nerycaballero.github.io/tim-berners-lee/)
