@@ -24,8 +24,7 @@ body {
     margin-top: 30px;
     padding: 25px; 
     text-align: center;
-    /*box-shadow: 1px 1px 1px 1px 
-    box-shadow:  -1px -1px 1px 1px;*/
+    box-shadow: 1px 1px 5px 1px rgb(217, 218, 219), -1px -1px 5px 1px rgb(217, 218, 219);
 }
 
 .container1 img {
@@ -79,6 +78,7 @@ body {
     padding: 15px;
     align-content: center;
     vertical-align: middle;
+    box-shadow: 1px 1px 5px 1px rgb(217, 218, 219), -1px -1px 5px 1px rgb(217, 218, 219);
 }
 
 .container2 ul {
@@ -103,12 +103,14 @@ body {
 
 /* Social Media Links ENDS */
 
+/* Movies */
+
 .container3 {
     background-color: white;
     border-radius: 2px;
     margin-bottom: 15px;
     padding: 15px;
-    display
+    box-shadow: 1px 1px 5px 1px rgb(217, 218, 219), -1px -1px 5px 1px rgb(217, 218, 219);
 }
 
 .container3 h2 {
@@ -116,27 +118,22 @@ body {
     font-weight: 400;
 }
 
-.container3 .movie1 img {
+.container3 img {
     float: left;
     height: 150px;
-    margin: 15px;
+    margin: 35px;
 }
 
-.movie1 {
+.movie1 .movie2 .movie3{
     display: block;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
-.container3 .movie2 img {
-    float: left;
-    height: 150px;
-    margin: 15px;
-}
-
-.container3 .movie3 img {
-    float: left;
-    height: 150px;
-    margin: 15px;
+.container3 p {
+    font-size: 22px;
+    margin: 10px;
+    padding: 10px;
+    text-align: justify;
 }
 
 .container3 h3 {
